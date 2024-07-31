@@ -17,6 +17,7 @@
     "geist": "1.2.2",
     "next": "^14.2.3",
     "next-mdx-remote": "^4.4.1",
+    "pnpm": "^9.6.0",
     "postcss": "^8.4.35",
     "react": "18.2.0",
     "react-dom": "18.2.0",
